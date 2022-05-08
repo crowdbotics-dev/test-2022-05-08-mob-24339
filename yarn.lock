@@ -998,6 +998,13 @@
     react-native-emoji-selector "^0.2.0"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
+"@modules/login@file:./modules/login/":
+  version "1.0.0"
+  dependencies:
+    "@react-navigation/native" "^5.9.2"
+    "@react-navigation/stack" "^5.14.2"
+    react-native-keyboard-aware-scroll-view "^0.9.3"
+
 "@modules/user-profile@file:./modules/user-profile":
   version "1.0.0"
   dependencies:
@@ -1199,7 +1206,7 @@
   dependencies:
     nanoid "^3.1.15"
 
-"@react-navigation/stack@^5.14.3":
+"@react-navigation/stack@^5.14.2", "@react-navigation/stack@^5.14.3":
   version "5.14.9"
   resolved "https://registry.yarnpkg.com/@react-navigation/stack/-/stack-5.14.9.tgz#49c7b9316e6fb456e9766c901e0d607862f0ea7d"
   integrity sha512-DuvrT9P+Tz8ezZLQYxORZqOGqO+vEufaxlW1hSLw1knLD4jNxkz8TJDXtfKwaz//9gb43UhTNccNM02vm7iPqQ==
@@ -1220,7 +1227,7 @@
 "@screens/order-checkout@file:./screens/order-checkout":
   version "1.0.0"
 
-"@screens/order-complete@file:./screens/order-complete/":
+"@screens/order-complete@file:./screens/order-complete":
   version "1.0.0"
 
 "@screens/order-summary@file:./screens/order-summary":
