@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-social-auth](backend/modules/social-auth)
 - [screen-rate-the-app](screens/rate-the-app)
 - [react-native-chat](modules/chat)
+- [screen-order-checkout](screens/order-checkout)
 
 # Getting started: Frontend
 
