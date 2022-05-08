@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-rate-the-app](screens/rate-the-app)
 - [react-native-chat](modules/chat)
 - [screen-order-checkout](screens/order-checkout)
+- [screen-order-summary](screens/order-summary)
 
 # Getting started: Frontend
 
