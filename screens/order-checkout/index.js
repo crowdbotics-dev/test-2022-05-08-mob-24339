@@ -5,7 +5,7 @@ const OrderCheckoutScreen = params => {
   return <View style={styles.container}>
       <Text style={{
       position: "absolute",
-      top: 167.5
+      left: 0
     }}>Order Checkout Screen</Text>
     </View>;
 };
