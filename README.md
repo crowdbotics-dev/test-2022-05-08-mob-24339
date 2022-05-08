@@ -59,6 +59,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-user-profile](modules/user-profile)
 - [django-social-auth](backend/modules/social-auth)
 - [screen-rate-the-app](screens/rate-the-app)
+- [react-native-chat](modules/chat)
 
 # Getting started: Frontend
 
