@@ -1,12 +1,13 @@
 import React from "react";
 import { Text, StyleSheet, View } from "react-native";
 
-const SearchListingScreen = (params) => {
-  return (
-    <View style={styles.container}>
-      <Text style={styles.headingTxt}>Search Listing Screen</Text>
-    </View>
-  );
+const SearchListingScreen = params => {
+  return <View style={styles.container}>
+      <Text style={{
+      position: "absolute",
+      top: 167.5
+    }}>Search Listing Screen</Text>
+    </View>;
 };
 
 const styles = StyleSheet.create({
@@ -22,5 +23,4 @@ const styles = StyleSheet.create({
     marginVertical: 12
   }
 });
-
 export default SearchListingScreen;
