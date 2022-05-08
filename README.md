@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-chat](modules/chat)
 - [screen-order-checkout](screens/order-checkout)
 - [screen-order-summary](screens/order-summary)
+- [screen-order-complete](screens/order-complete)
 
 # Getting started: Frontend
 

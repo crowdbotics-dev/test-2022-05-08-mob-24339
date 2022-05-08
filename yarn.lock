@@ -1220,7 +1220,10 @@
 "@screens/order-checkout@file:./screens/order-checkout":
   version "1.0.0"
 
-"@screens/order-summary@file:./screens/order-summary/":
+"@screens/order-complete@file:./screens/order-complete/":
+  version "1.0.0"
+
+"@screens/order-summary@file:./screens/order-summary":
   version "1.0.0"
 
 "@screens/rate-the-app@file:./screens/rate-the-app":
